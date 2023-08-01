@@ -1,0 +1,387 @@
+{
+    "name": "Goodbye Eyes",
+    "description": "Say goodbye to your eyes",
+  "authors": [
+      {
+         "name": "mc.9",
+         "id": "727494582966812833"
+      }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#fffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff",
+            "#ffffff"			
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "CHAT_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "CHAT_BORDER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "DISPLAY_BANNER_OVERFLOW_BACKGROUND": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "ELEVATION_HIGH": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "ELEVATION_LOW": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "ELEVATION_MEDIUM": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "ELEVATION_STROKE": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "FOCUS_PRIMARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "FORUM_POST_EXTRA_MEDIA_COUNT_CONTAINER_BACKGROUND": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "FORUM_POST_TAG_BACKGROUND": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_HELP_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_HELP_FOREGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_HELP_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_POSITIVE_FOREGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_POSITIVE_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_WARNING_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_WARNING_FOREGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_WARNING_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "LOGO_PRIMARY": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#ffffffff",
+            "#ffffffff"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_DANGER": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_LINK": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_LINK_LOW_SATURATION": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_POSITIVE": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_WARNING": [
+            "#ffffff",
+            "#ffffff"
+        ],
+        "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+            "#ffffffff",
+            "#ffffffff"
+        ]
+  
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_130": "#fffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#ffffff",
+        "PRIMARY_400": "#ffffff",
+        "PRIMARY_460": "#ffffff",
+        "PRIMARY_500": "#ffffff",
+        "PRIMARY_600": "#ffffff",
+        "PRIMARY_630": "#ffffff",
+        "PRIMARY_660": "#ffffff",
+        "PRIMARY_700": "#ffffff",
+        "PRIMARY_800": "#ffffff",
+        "PRIMARY_900": "#ffffff",
+        "BG_GRADIENT_CRIMSON_MOON_2": "#ffffff",
+        "BRAND_230": "#ffffff",
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffff",
+        "BRAND_500": "#ffffffff",
+        "BRAND_560": "#ffffff",
+        "BLACK_500": "#ffffff",
+        "BLACK_530": "#ffffff",
+        "BLACK_560": "#ffffff",
+        "BLACK_600": "#ffffff",
+        "BLACK_630": "#ffffff",
+        "BLACK_660": "#ffffff",
+        "BLACK_700": "#ffffff",
+        "BLACK_730": "#ffffff",
+        "BLACK_760": "#ffffff",
+        "BLACK_800": "#ffffff",
+        "BLACK_830": "#ffffff",
+        "BLACK_860": "#ffffff",
+        "BLACK_900": "#ffffff",
+        "RED_400": "#ffffff",
+        "RED_430": "#ffffff",
+        "RED_460": "#ffffff",
+        "GREEN_360": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "YELLOW_300": "#ffffff"
+    },
+    "spec": 2
+            }
